@@ -4,7 +4,7 @@
 
 **`Master's in Electrical and Computer Engineering from FCT-NOVA`**
 
-Autonomous Driving Software Engineer at Critical TechWorks with a Master’s in Electrical and Computer Engineering from FCT-NOVA, of which I received the Talkdesk Merit Award 2021. With past experiences at Siemens, Everis, KPMG, and Volkswagen to develop more programming knowledge and techniques in different areas as well as a KPMG Ambassador and IEEE Member to increase my soft skills, and finally as a Teaching Assistant at FCT-NOVA to inspire the new generation of Engineers. 
+With past experiences at Siemens, Everis, KPMG, and Volkswagen to develop more programming knowledge and techniques in different areas as well as a KPMG Ambassador and IEEE Member to increase my soft skills, and finally as a Teaching Assistant at FCT-NOVA to inspire the new generation of Engineers. 
 
 More info at:
    <p align="left">
