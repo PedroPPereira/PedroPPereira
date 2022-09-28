@@ -4,7 +4,7 @@
 
 **`Master's in Electrical and Computer Engineering from FCT-NOVA`**
 
-With past experiences at Siemens, Everis, KPMG, and Volkswagen to develop more programming knowledge and techniques in different areas as well as a KPMG Ambassador and IEEE Member to increase my soft skills, and finally as a Teaching Assistant at FCT-NOVA to inspire the new generation of Engineers. 
+With past experiences at Siemens, NTT Data, KPMG, and Volkswagen to develop more programming knowledge and techniques as well as a KPMG Ambassador and IEEE Member to increase my soft skills, and finally as a Teaching Assistant at FCT-NOVA to inspire the new generation of Engineers. Currently involved in software development for the new BMW car fleet. 
 
 More info at:
    <p align="left">
@@ -60,7 +60,7 @@ More info at:
    
 Job Title  | Company | Duration | Location
 ------------- | ------------- | ------------- | -------------
-Autonomous Driving Software Engineer  | Critical TechWorks                               | Feb. 2022 – present | Lisbon, Portugal
+Autonomous Driving Software Engineer  | Critical TechWorks & BMW Group                              | Feb. 2022 – present | Lisbon, Portugal
 Software Engineer                     | Volkswagen Digital Solutions                     | Sep. 2021 – Jan. 2022  | Lisbon, Portugal 
 Teaching Assistant                    | NOVA School of Science and Technology (FCT-NOVA) | Oct. 2020 – Jan. 2021 | Lisbon, Portugal
 Member | IEEE FCT-NOVA Student Branch | Feb. 2020 – Jun. 2020 | Lisbon, Portugal
