@@ -56,7 +56,8 @@ More info at:
 
 ---
 
-<h3>👨‍💻 Professional Journey</h3>
+<details>
+ <summary><h3>👨‍💻 Professional Journey</h3></summary>
    
 Job Title  | Company | Duration | Location
 ------------- | ------------- | ------------- | -------------
@@ -68,7 +69,7 @@ FCT-NOVA Campus Ambassador            | KPMG | Oct. 2018 – Oct. 2019 | Lisbon,
 IT Advisory Intern                    | KPMG | Jul. 2019 | Lisbon, Portugal
 IoT Developer Intern                  | Everis (now NTT Data) | Jan. 2019 – Feb. 2019 | Lisbon, Portugal
 Software Engineering Intern           | Siemens | Jul. 2018 – Sep. 2018 | Lisbon, Portugal
-
+</details> 
   
    
 
