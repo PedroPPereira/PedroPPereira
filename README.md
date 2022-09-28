@@ -14,7 +14,7 @@ More info at:
 
 ---
 
-### 🧰 Languages and Tools
+<h3> 🧰 Languages and Tools </h3>
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -56,7 +56,7 @@ More info at:
 
 ---
 
-👨‍💻 Professional Journey</h3>
+<h3>👨‍💻 Professional Journey</h3>
    
 Job Title  | Company | Duration
 ------------- | ------------- | -------------
