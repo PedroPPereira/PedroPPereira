@@ -64,10 +64,10 @@ Job Title  | Company | Duration | Location
 Autonomous Driving Software Engineer  | Critical TechWorks & BMW Group                              | Feb. 2022 – present | Lisbon, Portugal
 Software Engineer                     | Volkswagen Digital Solutions                     | Sep. 2021 – Jan. 2022  | Lisbon, Portugal 
 Teaching Assistant                    | NOVA School of Science and Technology (FCT-NOVA) | Oct. 2020 – Jan. 2021 | Lisbon, Portugal
-Member | IEEE FCT-NOVA Student Branch | Feb. 2020 – Jun. 2020 | Lisbon, Portugal
+FCT-NOVA Student Branch Member | IEEE | Feb. 2020 – Jun. 2020 | Lisbon, Portugal
 FCT-NOVA Campus Ambassador            | KPMG | Oct. 2018 – Oct. 2019 | Lisbon, Portugal
 IT Advisory Intern                    | KPMG | Jul. 2019 | Lisbon, Portugal
-IoT Developer Intern                  | Everis (now NTT Data) | Jan. 2019 – Feb. 2019 | Lisbon, Portugal
+IoT Developer Intern                  | NTT Data | Jan. 2019 – Feb. 2019 | Lisbon, Portugal
 Software Engineering Intern           | Siemens | Jul. 2018 – Sep. 2018 | Lisbon, Portugal
 </details> 
   
