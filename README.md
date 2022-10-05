@@ -4,7 +4,7 @@
 
 **`Master's in Electrical and Computer Engineering from FCT-NOVA`**
 
-With past experiences at Siemens, NTT Data, KPMG, and Volkswagen to develop more programming knowledge and techniques as well as a KPMG Ambassador and IEEE Member to increase my soft skills, and finally as a Teaching Assistant at FCT-NOVA to inspire the new generation of Engineers. Currently involved in embedded software development for the new BMW car fleet.
+With past experiences at Siemens, NTT Data, KPMG, and Volkswagen to develop more programming knowledge and techniques as well as a KPMG Ambassador and IEEE Member to increase my soft skills. Also acted as a Teaching Assistant at FCT-NOVA to inspire the new generation of Engineers. Currently involved in embedded software development for the new BMW car fleet.
 
 More info at:
    <p align="left">
