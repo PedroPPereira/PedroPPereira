@@ -1,10 +1,10 @@
 # 🏄‍♂️ Pedro Assoreira Pereira
 
-**`Autonomous Driving Software Engineer @ Critical TechWorks | BMW Group`**
+**`R&D Software Engineer @ Siemens Portugal`**
 
 **`Master's in Electrical and Computer Engineering from FCT-NOVA`**
 
-With past experiences at Siemens, NTT Data, KPMG, and Volkswagen to develop more programming knowledge and techniques as well as a KPMG Ambassador and IEEE Member to increase my soft skills. Also acted as a Teaching Assistant at FCT-NOVA to inspire the new generation of Engineers. Currently involved in embedded software development for the new BMW car fleet.
+Multifaceted background with 4 years experience in software development, having worked previously at Critical TechWorks (from BMW Group), Volkswagen, KPMG, and NTT Data. Also, with academic experience as a Teaching Assistant. Currently involved in R&D software development with a focus on embedded and desktop app development.
 
 More info at:
    <p align="left">
@@ -19,10 +19,8 @@ More info at:
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -41,16 +39,16 @@ More info at:
    - IoT
    
    - Robotics
+
+   - R&D
    
    - Mobility
    
-   - Industrial Automation
-   
-   - Spacecraft Control
-   
    - Medical Care
    
-   - Machine Learning / Artificial Intelligence
+   - Sustainability
+   
+   - Financial Software
    
 </details>   
 
@@ -61,7 +59,8 @@ More info at:
    
 Job Title  | Company | Duration | Location
 ------------- | ------------- | ------------- | -------------
-Autonomous Driving Software Engineer  | Critical TechWorks from BMW Group                              | Feb. 2022 – present | Lisbon, Portugal
+R&D Software Engineer                 | Siemens                                          | May 2024 – present | Lisbon, Portugal
+Autonomous Driving Software Engineer  | Critical TechWorks from BMW Group                | Feb. 2022 – Apr. 2024 | Lisbon, Portugal
 Software Engineer                     | Volkswagen Digital Solutions                     | Sep. 2021 – Jan. 2022  | Lisbon, Portugal 
 Teaching Assistant                    | NOVA School of Science and Technology (FCT-NOVA) | Oct. 2020 – Jan. 2021 | Lisbon, Portugal
 FCT-NOVA Student Branch Member | IEEE | Feb. 2020 – Jun. 2020 | Lisbon, Portugal
