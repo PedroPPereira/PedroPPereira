@@ -4,7 +4,7 @@
 
 **`Master's in Electrical and Computer Engineering from FCT-NOVA`**
 
-Multifaceted background with 4 years experience in software development, having worked previously at Critical TechWorks (from BMW Group), Volkswagen, KPMG, and NTT Data. Also, with academic experience as a Teaching Assistant. Currently involved in R&D software development with a focus on embedded and desktop app development.
+Multifaceted background with +5 years experience in software development, having worked previously at Critical TechWorks (from BMW Group), Volkswagen, KPMG, and NTT Data. Also, with academic experience as a Teaching Assistant. Currently involved in R&D software development with a focus on embedded and desktop app development.
 
 More info at:
    <p align="left">
