@@ -1,10 +1,12 @@
 # 🏄‍♂️ Pedro Assoreira Pereira
 
-**`R&D Software Engineer @ Siemens Portugal`**
+**`Embedded Software Engineer @ Siemens Portugal`**
 
-**`Master's in Electrical and Computer Engineering from FCT-NOVA`**
+**`Master's in Electrical and Computer Engineering, NOVA University of Lisbon`**
 
-Multifaceted background with +5 years experience in software development, having worked previously at Critical TechWorks (from BMW Group), Volkswagen, KPMG, and NTT Data. Also, with academic experience as a Teaching Assistant. Currently involved in R&D software development with a focus on embedded and desktop app development.
+Embedded Software Engineer with 6 years of software experience delivering high-performance, safety-critical C++ solutions across industrial R&D (Siemens), autonomous vehicles (BMW), and aerospace research. Skilled in designing and building full-stack embedded systems, from low-level firmware to Qt desktop applications and REST APIs. 
+
+Proven track record in developing reliable systems under resource-constrained environments, designing scalable architectures, and leading full software development lifecycles.
 
 More info at:
    <p align="left">
@@ -52,23 +54,6 @@ More info at:
    
 </details>   
 
----
-
-<details>
- <summary><h3>👨‍💻 Professional Journey</h3></summary>
-   
-Job Title  | Company | Duration | Location
-------------- | ------------- | ------------- | -------------
-R&D Software Engineer                 | Siemens                                          | May 2024 – present | Lisbon, Portugal
-Autonomous Driving Software Engineer  | Critical TechWorks from BMW Group                | Feb. 2022 – Apr. 2024 | Lisbon, Portugal
-Software Engineer                     | Volkswagen Digital Solutions                     | Sep. 2021 – Jan. 2022  | Lisbon, Portugal 
-Teaching Assistant                    | NOVA School of Science and Technology (FCT-NOVA) | Oct. 2020 – Jan. 2021 | Lisbon, Portugal
-FCT-NOVA Student Branch Member | IEEE | Feb. 2020 – Jun. 2020 | Lisbon, Portugal
-FCT-NOVA Campus Ambassador            | KPMG | Oct. 2018 – Oct. 2019 | Lisbon, Portugal
-IT Advisory Intern                    | KPMG | Jul. 2019 | Lisbon, Portugal
-IoT Developer Intern                  | NTT Data | Jan. 2019 – Feb. 2019 | Lisbon, Portugal
-Software Engineering Intern           | Siemens | Jul. 2018 – Sep. 2018 | Lisbon, Portugal
-</details> 
   
    
 
